@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538671059272",
+    "project_id": "condominioconnect-c6247",
+    "storage_bucket": "condominioconnect-c6247.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538671059272:android:3cb298523deb23b4cf237d",
+        "android_client_info": {
+          "package_name": "com.condominio.connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFV7XbljOW-Wsu9TWWeJWd6qkFXKbj9bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
